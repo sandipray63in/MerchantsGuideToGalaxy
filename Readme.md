@@ -35,9 +35,8 @@ glob prok Gold is 57800 Credits
 glob prok Iron is 782 Credits      
 I have no idea what you are talking about     
       
-The solution provided to the problem is a generic, maintainable, extensible and testable solution to the Merchant's Guide to the Galaxy    
-problem.     
-Another good solution to the same problem using Compiler Consytruction terminologies can be found [here](http://awizkid.tumblr.com/post/100081789976/merchants-guide-to-galaxy)    
+The solution provided to the problem is a generic, maintainable, extensible and testable solution to the Merchant's Guide to the Galaxy  problem without using any Programming Language Construction Toolkit like [Jigsaw](https://code.google.com/archive/p/jigsaw-library/), [Antlr](https://en.wikipedia.org/wiki/ANTLR) or [Irony](https://www.codeproject.com/Articles/22650/Irony-NET-Compiler-Construction-Kit).          
+Another good solution to the same problem using Compiler Construction terminologies can be found [here](http://awizkid.tumblr.com/post/100081789976/merchants-guide-to-galaxy)    
 
 References - 
 Some good references to solve this kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit    are -        

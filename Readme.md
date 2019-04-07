@@ -36,4 +36,16 @@ glob prok Iron is 782 Credits
 I have no idea what you are talking about     
       
 The solution provided here is a generic, maintainable, extensible and testable solution to the Merchant's Guide to the Galaxy  problem without using any Programming Language Construction Toolkit like [Jigsaw](https://code.google.com/archive/p/jigsaw-library/), [Antlr](https://en.wikipedia.org/wiki/ANTLR) or [Irony](https://www.codeproject.com/Articles/22650/Irony-NET-Compiler-Construction-Kit).          
-Another good solution to the same problem using Compiler Construction terminologies can be found [here](http://awizkid.tumblr.com/post/100081789976/merchants-guide-to-galaxy).            
+Another good solution to the same problem using Compiler Construction terminologies can be found [here](http://awizkid.tumblr.com/post/100081789976/merchants-guide-to-galaxy).   
+
+References -
+Some good references to solve this kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit are -
+1) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)      
+2) [Domain Specific Language in .NET](https://udooz.pressbooks.com/)        
+3) [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns)           
+4) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)       
+5) [A Catalog of Patterns for Program Generation](http://www.voelter.de/data/pub/ProgramGeneration.pdf)         
+6) [Programming Language Pragmatics](https://www.cs.rochester.edu/~scott/pragmatics/)(a bit academic)                          
+7) [Learn Roslyn Now Series](https://joshvarty.com/learn-roslyn-now/)        
+8) [Apress' Roslyn Texts](https://www.apress.com/gp/search?query=roslyn)        
+9) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)       

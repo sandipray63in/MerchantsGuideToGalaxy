@@ -47,5 +47,5 @@ Some good references to solve this kind of Compiler Construction type problems o
 5) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)       
 6) [A Catalog of Patterns for Program Generation](http://www.voelter.de/data/pub/ProgramGeneration.pdf)         
 7) [Programming Language Pragmatics](https://www.cs.rochester.edu/~scott/pragmatics/)(a bit academic)                               
-8) [Learn Roslyn Now Series](https://joshvarty.com/learn-roslyn-now/)  and [Apress' Roslyn Texts](https://www.apress.com/gp/search?query=roslyn)          
+8) [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
 9) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)          

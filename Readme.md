@@ -41,7 +41,8 @@ Another good solution to the same problem using Compiler Construction terminolog
 References -
 Some good references to solve this kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit are -
 1) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)      
-2) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)            
+2) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
+   N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)       
 3) [Domain Specific Language in .NET](https://udooz.pressbooks.com/)        
 4) [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns)           
 5) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)       

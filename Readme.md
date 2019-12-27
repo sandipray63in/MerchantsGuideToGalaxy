@@ -40,10 +40,10 @@ Another good solution to the same problem using Compiler Construction terminolog
 
 References -
 Some good references to solve this kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit are -
-1) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)      
-2) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
+1) [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)          
+2) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)                            
+3) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
    N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)                     
-3) [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)                 
 4) NPTEL's Compiler Construction Related Courses([I](https://nptel.ac.in/courses/111103016/), [II](https://nptel.ac.in/courses/106106049/), [III](https://nptel.ac.in/courses/106103070/), [IV](https://nptel.ac.in/courses/106104028/), [V](https://nptel.ac.in/courses/106108052/), [VI](https://nptel.ac.in/courses/106108113/) and [VII](https://nptel.ac.in/courses/106105190/))                
 5) [Domain Specific Language in .NET](https://udooz.pressbooks.com/)        
 6) [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns)           

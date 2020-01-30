@@ -49,7 +49,7 @@ Some good references to solve this kind of Compiler Construction type problems o
 6) [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns)           
 7) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)       
 8) [A Catalog of Patterns for Program Generation](http://www.voelter.de/data/pub/ProgramGeneration.pdf)         
-9) [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
+9) [Roslyn Succintly](https://www.syncfusion.com/ebooks/roslyn), [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
 10) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)             
 11) Some other good (.NETish) resources are like [Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/), [Evaluating mathematical expressions with custom script functions](https://stackoverflow.com/questions/43817154/evaluating-mathematical-expressions-with-custom-script-functions), [Dynamic compilation as a very fast mathematic parser in .NET](http://www.naun.org/main/NAUN/mcs/2015/a082002-224.pdf) and [Building a Dynamic Business Rules Engine](https://www.growthaccelerationpartners.com/blog/dynamic-business-rules-engine/).                     
 

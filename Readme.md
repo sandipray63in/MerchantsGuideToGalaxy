@@ -36,3 +36,18 @@ glob prok Iron is 782 Credits
 I have no idea what you are talking about     
       
 The solution provided here is a generic, maintainable, extensible and testable solution to the Merchant's Guide to Galaxy  problem without using any Programming Language Construction Toolkit like [Jigsaw](https://code.google.com/archive/p/jigsaw-library/), [Antlr](https://en.wikipedia.org/wiki/ANTLR) or [Irony](https://www.codeproject.com/Articles/22650/Irony-NET-Compiler-Construction-Kit).
+
+
+Sometimes you might need to create a language for your domain(something similar to compiler or interpreter construction) and such languages are called Domain Specific Languages.Some good references to solve any kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit are -          
+1) [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)          
+2) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)                            
+3) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
+   N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)                     
+4) NPTEL's Compiler Construction Related Courses([I](https://nptel.ac.in/courses/111103016/), [II](https://nptel.ac.in/courses/106106049/), [III](https://nptel.ac.in/courses/106103070/), [IV](https://nptel.ac.in/courses/106104028/), [V](https://nptel.ac.in/courses/106108052/), [VI](https://nptel.ac.in/courses/106108113/) and [VII](https://nptel.ac.in/courses/106105190/))                
+5) [Domain Specific Language in .NET](https://udooz.pressbooks.com/)        
+6) [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns)           
+7) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)       
+8) [A Catalog of Patterns for Program Generation](http://www.voelter.de/data/pub/ProgramGeneration.pdf)         
+9) [Roslyn Succintly](https://www.syncfusion.com/ebooks/roslyn), [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
+10) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)             
+11) Some other good (.NETish) resources are like [Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/), [Evaluating mathematical expressions with custom script functions](https://stackoverflow.com/questions/43817154/evaluating-mathematical-expressions-with-custom-script-functions), [Dynamic compilation as a very fast mathematic parser in .NET](http://www.naun.org/main/NAUN/mcs/2015/a082002-224.pdf) and [Building a Dynamic Business Rules Engine](https://www.growthaccelerationpartners.com/blog/dynamic-business-rules-engine/). 

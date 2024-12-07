@@ -44,8 +44,7 @@ Sometimes you might need to create a language for your domain(something similar 
 3) [State Machines and Automata](https://www.packtpub.com/en-in/product/state-machines-and-automata-building-a-regexp-machine-9781801076944)      
 4) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)                            
 5) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
-   N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly] 
-(https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)                     
+   N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)                     
 6) [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/)                      
 7) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)
 8) [Building your own Programming Language](https://www.packtpub.com/en-in/product/build-your-own-programming-language-9781804618028)

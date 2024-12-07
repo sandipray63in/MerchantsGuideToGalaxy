@@ -39,19 +39,20 @@ The solution provided here is a generic, maintainable, extensible and testable s
 
 
 Sometimes you might need to create a language for your domain(something similar to compiler or interpreter construction) and such languages are called Domain Specific Languages.Some good references to solve any kind of Compiler Construction type problems or to build your own cool Programming Construction toolkit are -          
-1) [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
-2) [State Machines and Automata](https://www.packtpub.com/en-in/product/state-machines-and-automata-building-a-regexp-machine-9781801076944)      
-3) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)                            
-4) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
+1) [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)       
+2) [Automata Theory](https://en.m.wikipedia.org/wiki/Automata_theory)        
+3) [State Machines and Automata](https://www.packtpub.com/en-in/product/state-machines-and-automata-building-a-regexp-machine-9781801076944)      
+4) [Implementing Programming Languages using C# 4.0](https://www.codeproject.com/articles/272494/implementing-programming-languages-using-csharp)                            
+5) [Implementing a Custom Language Succinctly](https://www.syncfusion.com/ebooks/implementing-a-custom-language)       
    N.B. -> A sequel to the above text is [Writing Native Mobile Apps in a Functional Language Succinctly] 
 (https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly)                     
-5) [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/)                      
-6) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)
-7) [Building your own Programming Language](https://www.packtpub.com/en-in/product/build-your-own-programming-language-9781804618028)
-8) [Role of VM in Programming Languages](https://www.linkedin.com/advice/0/what-role-virtual-machine-programming-languages-vexfe?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=A%20Virtual%20Machine%20(VM)%20plays,deployment%20easier%20and%20more%20efficient.), [Build your own VM](https://www.codeproject.com/Articles/43176/How-to-create-your-own-virtual-machine) & [Udemy's Building a VM for a Programming Language course](https://www.udemy.com/course/virtual-machine/)        
-9) [Roslyn Succintly](https://www.syncfusion.com/ebooks/roslyn), [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
-10) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)             
-11) Some other good (.NETish) resources are like [Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/), [Evaluating mathematical expressions with custom script functions](https://stackoverflow.com/questions/43817154/evaluating-mathematical-expressions-with-custom-script-functions), [Dynamic compilation as a very fast mathematic parser in .NET](http://www.naun.org/main/NAUN/mcs/2015/a082002-224.pdf) and [Building a Dynamic Business Rules Engine](https://www.growthaccelerationpartners.com/blog/dynamic-business-rules-engine/).
+6) [Language Implementation Patterns](https://pragprog.com/titles/tpdsl/language-implementation-patterns/)                      
+7) [Domain Specific Languages](https://www.martinfowler.com/books/dsl.html)
+8) [Building your own Programming Language](https://www.packtpub.com/en-in/product/build-your-own-programming-language-9781804618028)
+9) [Role of VM in Programming Languages](https://www.linkedin.com/advice/0/what-role-virtual-machine-programming-languages-vexfe?utm_source=share&utm_medium=member_ios&utm_campaign=share_via#:~:text=A%20Virtual%20Machine%20(VM)%20plays,deployment%20easier%20and%20more%20efficient.), [Build your own VM](https://www.codeproject.com/Articles/43176/How-to-create-your-own-virtual-machine) & [Udemy's Building a VM for a Programming Language course](https://www.udemy.com/course/virtual-machine/)        
+10) [Roslyn Succintly](https://www.syncfusion.com/ebooks/roslyn), [Awesome Roslyn](https://github.com/ironcev/awesome-roslyn) and [Roslyn Samples and Walkthroughs](https://github.com/dotnet/roslyn/wiki/Samples-and-Walkthroughs)                  
+11) [Masterminds of Programming](http://shop.oreilly.com/product/9780596515171.do)             
+12) Some other good (.NETish) resources are like [Easy way to create a C# lambda expression from a string (with Roslyn)](https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/), [Evaluating mathematical expressions with custom script functions](https://stackoverflow.com/questions/43817154/evaluating-mathematical-expressions-with-custom-script-functions), [Dynamic compilation as a very fast mathematic parser in .NET](http://www.naun.org/main/NAUN/mcs/2015/a082002-224.pdf) and [Building a Dynamic Business Rules Engine](https://www.growthaccelerationpartners.com/blog/dynamic-business-rules-engine/).
 
 
 Disclaimer - I have not read/gone-through e2e of all the resources mentioned above(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.Also some resources links might not be working due to various reasons, although they were working at the time of initial drafting.

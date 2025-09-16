@@ -26,14 +26,16 @@ how much is pish tegj glob glob ?
 how many Credits is glob prok Silver ?      
 how many Credits is glob prok Gold ?      
 how many Credits is glob prok Iron ?       
-how much wood could a woodchuck chuck if a woodchuck could chuck wood ?     
-      
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?         
+   
 Test Output     
 pish tegj glob glob is 42     
 glob prok Silver is 68 Credits     
 glob prok Gold is 57800 Credits     
 glob prok Iron is 782 Credits      
 I have no idea what you are talking about     
+                   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
       
 The solution provided here is a generic, maintainable, extensible and testable solution to the Merchant's Guide to Galaxy  problem without using any Programming Language Construction Toolkit like [Jigsaw](https://code.google.com/archive/p/jigsaw-library/), [Antlr](https://en.wikipedia.org/wiki/ANTLR) or [Irony](https://www.codeproject.com/Articles/22650/Irony-NET-Compiler-Construction-Kit).
 
